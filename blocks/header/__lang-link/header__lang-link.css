@@ -1,5 +1,5 @@
 .header__lang-link{
-font-family: Inter;
+font-family: Inter, sans-serif, Arial;
 font-style: normal;
 font-weight: normal;
 font-size: 18px;
@@ -7,6 +7,8 @@ line-height: 20px;
 text-align: right;
 color: #FFFFFF;
 margin-right: 18px;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
 }
 .header__lang-link:last-of-type{
     margin-right: 0;
