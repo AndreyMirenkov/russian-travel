@@ -1,6 +1,5 @@
 .lead__subtitle{
     width: 288px;
-    height: 40px;
     font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -16,7 +15,6 @@
 @media screen and (min-width: 768px) {
     .lead__subtitle{
         width: 640px;
-        height: 72px;
         font-size: 30px;
         line-height: 36px;
         padding-bottom: 56px;
@@ -24,15 +22,11 @@
 }
 @media screen and (min-width: 1024px) {
     .lead__subtitle{
-        width: 487.09px;
-        height: 63.14px;
         padding-bottom: 57.67px;
     }
 }
 @media screen and (min-width: 1280px) {
     .lead__subtitle{
-        width: 640px;
-        height: 72px;
         padding-bottom: 64px;
     }
 }
