@@ -1,14 +1,14 @@
-.footer__link_margin{
+.footer__links_margin{
     margin: 0 118px 32px 16px;
 }
-.footer__link_margin:last-child{
+.footer__links_margin:last-child{
     margin-bottom: 48px;
 }
 @media screen and (min-width: 768px) {
-    .footer__link_margin{
+    .footer__links_margin{
         margin: 0;
     }
-    .footer__link_margin:last-child{
+    .footer__links_margin:last-child{
         margin: 0;
     }
 }
