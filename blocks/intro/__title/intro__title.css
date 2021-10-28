@@ -22,12 +22,7 @@
 @media screen and (min-width: 1024px) {
     .intro__title{
         width: 690px;
-        margin-left: 48px;
+        margin: 0;
         padding-top: 92px;
-    }
-}
-@media screen and (min-width: 1280px) {
-    .intro__title{
-        margin-left: 148px;
     }
 }

@@ -1,6 +1,8 @@
 .header__lang-links{
+    display: flex;
     align-self:flex-end;
-    padding-bottom: 8px;
+    padding: 0 0 8px;
+    margin: 0;
 }
 @media screen and (min-width: 768px) {
     .header__lang-links{

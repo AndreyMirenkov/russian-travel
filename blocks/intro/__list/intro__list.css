@@ -1,9 +1,8 @@
 .intro__list{
     width: 90%;
-    height: 90px;
     font-family: Inter, Arial, sans-serif;
     font-style: normal;
-    font-weight: bold;
+    font-weight: normal;
     font-size: 12px;
     line-height: 18px;
     -webkit-font-smoothing: antialiased;
@@ -22,12 +21,7 @@
 @media screen and (min-width: 1024px) {
     .intro__list{
         width: 690px;
-        margin-left: 48px;
+        margin: 0;
         padding-bottom: 92px;
-    }
-}
-@media screen and (min-width: 1280px) {
-    .intro__list{
-        margin-left: 148px;
     }
 }

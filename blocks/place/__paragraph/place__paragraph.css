@@ -8,31 +8,31 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #FFFFFF;
-    margin: 0 auto;
+    margin: 25px auto 0;
 }
 .place__paragraph:first-of-type{
     margin-top: 32px;
-    margin-bottom: 25px;
 }
 @media screen and (min-width: 768px) {
     .place__paragraph{
         width: 100%;
-        margin: 0;
+        margin:0 0 25px;
     }
     .place__paragraph:first-of-type{
         margin-top: 0;
+    }
+    .place__paragraph:last-of-type{
+        margin-bottom: 0;
     }
 }
 @media screen and (min-width: 1024px) {
     .place__paragraph{
         font-size: 18px;
-    }
-    .place__paragraph:first-of-type{
         margin-bottom: 27px;
     }
 }
 @media screen and (min-width: 1280px) {
-    .place__paragraph:first-of-type{
+    .place__paragraph{
         margin-bottom: 26px;
     }
 }

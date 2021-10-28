@@ -6,12 +6,16 @@
     line-height: 20px;
     text-align: right;
     color: #FFFFFF;
-    margin-right: 18px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    text-decoration-line: none;
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: 0.2s;
+    transition-timing-function: linear;
 }
-.header__lang-link:last-of-type{
-    margin-right: 0;
+.header__lang-link:hover{
+    opacity: 0.8;
 }
 @media screen and (min-width:768px) {
     .header__lang-link{

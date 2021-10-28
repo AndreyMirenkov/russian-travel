@@ -1,7 +1,7 @@
 .cover__background{
     background-image: url(../../../Images/cover-trains.jpg);
     width: 100%;
-    min-height: 62.5vw;
+    height: 62.5vw;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -19,10 +19,10 @@
 .cover__background:hover::before{
     opacity: 0.8;
 }
-@media screen and (min-width: 1088px) {
+@media screen and (min-width: 1184px) {
     .cover__background{
-        width: 1088px;
-        height: 740px;
+        max-width: 1184px;
+        max-height: 740px;
         margin: 0 auto;
     }
 }

@@ -19,13 +19,6 @@
 }
 @media screen and (min-width: 1024px) {
     .lead__caption{
-        margin: 0 0 0 48.88px;
-        padding-top: 11.63px;
-    }
-}
-@media screen and (min-width: 1280px) {
-    .lead__caption{
-        padding-top: 8px;
-        margin: 0 0 0 148px;
+        margin: 0;
     }
 }
