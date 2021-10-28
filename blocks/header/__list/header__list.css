@@ -1,5 +1,6 @@
 .header__list{
     padding-right: 18px;
+    list-style-type: none;
 }
 .header__list:last-of-type{
     padding-right: 0;
