@@ -14,5 +14,5 @@
 **Ссылка на GitHub Pages**
 
 
-* [Ссылка на работу](https://andreymirenkov.github.io/russian-travel/)
+* [Ссылка на работу](https://andreymirenkov.github.io/russian-travel/index.html)
 
