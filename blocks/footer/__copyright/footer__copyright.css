@@ -7,14 +7,12 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #FFFFFF;
-    margin: 0 118px 0 24px;
-    padding-bottom: 16px;
+    margin: 0 118px 0 16px;
 }
 @media screen and (min-width:768px) {
     .footer__copyright{
         line-height: 16px;
         text-align: right;
         margin: 0;
-        padding-bottom: 24px;
     }
 }
